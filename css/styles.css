@@ -1,0 +1,20 @@
+h2.intro {
+  color: black;
+  text-align: center;
+  text-decoration-color: brown;
+  font-weight: 600;
+}
+
+p.intro {
+  color: black;
+  font-size: small;
+  font-style: initial;
+}
+
+img.intro {
+  image-rendering: crisp-edges;
+}
+
+body  {
+  background-color: gainsboro;
+}
