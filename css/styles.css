@@ -5,13 +5,10 @@ h2.intro {
   font-weight: 600;
 }
 
-p.intro {
+.intro {
   color: black;
   font-size: small;
   font-style: initial;
-}
-
-img.intro {
   image-rendering: crisp-edges;
 }
 
